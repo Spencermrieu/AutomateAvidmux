@@ -1,0 +1,17 @@
+This is the read me document of a Data moshing Avidemux script updated by FatCrow.
+
+
+
+Key Command List:
+
+Control + 1
+Remove next I-frame
+
+Control + 2
+Remove next 10 I-frames
+
+Control + 3
+Remove next 30 I-frames
+
+Escape
+Exits the app
