@@ -1,0 +1,27 @@
+This is the read me document for a data moshing Avidemux script updated by FatCrow. The original script was created by Phil from datamoshing.com. Thanks Phil!
+
+
+
+Key Command List:
+
+Control + 1
+Remove next I-frame
+
+Control + 2
+Remove next 10 I-frames
+
+Control + 3
+Remove next 30 I-frames
+
+Escape
+Exits the AutoHotkey script stopping any more deleted I-frames.
+
+
+
+This script automates deleting I-frames in Avidemux 2.5.6
+
+Load AutoHotkey with the Delete I-frames script running.
+When you are ready to remove I-frames place your mouse pointer on the rectangular slider underneath the video.
+Press the different key commands above for the amount of I-frames you want to remove to trigger the AutoHotkey script.
+The script will then send the key commands needed to delete the requested number of frames.
+Have fun moshing!
